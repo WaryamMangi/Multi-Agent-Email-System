@@ -1,7 +1,7 @@
 # Multi-Agent Email System
 
 ## Overview
-Nexus is an intelligent, multi-agent email processing pipeline built using LangGraph and LangChain. Designed to act as an autonomous executive assistant, it evaluates incoming emails, intercepts spam, and drafts context-aware professional responses for legitimate messages.
+This intelligent, multi-agent email processing pipeline is built using LangGraph and LangChain. Designed to act as an autonomous executive assistant, it evaluates incoming emails, intercepts spam, and drafts context-aware professional responses for legitimate messages.
 
 Handling high volumes of correspondence and filtering noise is a common challenge in data engineering and machine learning workflows. This project demonstrates stateful LLM orchestration, inter-agent communication, prompt engineering, and deterministic routing using Groq's high-speed inference API.
 
